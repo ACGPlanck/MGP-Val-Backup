@@ -1,0 +1,404 @@
+{{VCT TOP}}
+{{长期关注及更新}}
+{{信息栏2.0
+|title='''无畏契约冠军巡回赛'''
+|image=VCT_2024_logo_allmode.png
+|top-style=min-width:4em;padding:1em;color:#fff; background-color: #f60909;
+|size=300px
+|m-width=300px
+|l-style=color:#fff; background-color: #ff6c6c;
+|t-style=color:#fff; background-color: #f60909;
+|r-style=text-align:center;
+|-横栏=基本信息
+|名称 = 无畏契约冠军巡回赛<br>VALORANT Champions Tour
+|别称 = VCT
+|类型 = 官方直营赛事
+|主办方 = 拳头游戏
+|地点 = 全球
+|首届赛事 = [[file:VCT Masters icon allmode.png |25px|link=]][[2021无畏契约雷克雅未克大师赛|2021雷克雅未克大师赛]]
+|首届冠军 = [[file:VCTAMERSEN.png|25px|link=]]Sentinels
+|应届赛事 = [[file:VCT Champions logo.png|25px|link=]][[2024无畏契约首尔全球冠军赛|2024首尔全球冠军赛]]
+|卫冕冠军 = [[file:VCTCNEDG.png|25px|link=]]EDward Gaming<br>（首次夺冠）<ref>以所有VCT国际赛事为准</ref>
+|最成功战队 = [[file:VCTAMERSEN.png|25px|link=]]Sentinels<br>[[file:VCTEMEAFNC.png|25px|link=]]Fnatic<br>（两次夺冠）<ref>以所有VCT国际赛事为准，若数量相同，则对比权重分别为全球冠军赛、大师赛、季前邀请赛排先后位次</ref>
+|-横栏2=当前赛事
+|b-style=padding:0.5em;font-weight:normal;
+|bottom=<center>[[file:VCT_Challengers_logo.png |25px|link=]]各赛区晋升赛已经结束<br>[[file:VCT_logo.png|25px|link=]]敬请期待2025赛季</center>
+}}
+
+'''无畏契约冠军巡回赛'''（{{lang-en|'''''VALORANT Champions Tour'''''}}，简称'''''VCT'''''）是[[拳头游戏]]开发的第一人称射击游戏《[[无畏契约]]》（VALORANT）的国际赛事，是无畏契约职业联赛体系的统称。
+
+== 简介 ==
+自2020年顺利举办无畏契约先锋赛后，拳头游戏正式公布2021年的赛事规划，无畏契约冠军巡回赛便是重头戏。
+
+在冠军巡回赛中，来自世界各地的职业选手将各自以其独特的玩法风格，在游戏中一决高下。
+
+== 下属赛事 ==
+每年的冠军巡回赛都会举行多次的挑战者赛（CHALLENGERS）、国际联赛（INTERNATIONAL LEAGUES）、大师赛（MASTERS）以及作为最高荣誉的全球冠军赛（CHAMPIONS）。
+
+===一级赛事===
+
+====[[file:VCT_logo.png|38px|link=]]国际联赛（INTERNATIONAL LEAGUES） ====
+分属于大赛区的国际联赛，10支合作战队以及今后会开放的两支强劲的晋升战队在这场联赛中捉对厮杀，共同进步。
+
+目前，无畏契约冠军巡回赛共有四大联赛，它们分别是：
+*[[file:VCT 2023 Americas League allmode.png |19px|link=]][[无畏契约冠军巡回赛/美洲国际联赛|美洲国际联赛]]（美洲赛区），标志为爆能器，在美国洛杉矶扎根。
+*[[file:VCT EMEA small.png  |19px|link=]][[无畏契约冠军巡回赛/EMEA国际联赛|EMEA国际联赛]]（欧洲、中东与非洲赛区），标志为象征瞄准的准星，在德国柏林集结。
+*[[file:VCT Pacific small.png  |19px|link=]][[无畏契约冠军巡回赛/太平洋国际联赛|太平洋国际联赛]]（太平洋赛区），标志为烟幕，在韩国首尔会师。
+*[[file:VCT CN small.png  |19px|link=]][[无畏契约冠军巡回赛/CN联赛|CN联赛]]（中国赛区<ref>不含中国港澳台地区（分入太平洋赛区），下同</ref>），标志为象征击杀的六瓣花火，在中国上海展开决战。
+各联赛名列前茅的战队将会获得参加大师赛以及全球冠军赛的资格。
+
+====[[file:VCT Masters icon allmode.png |38px|link=]]大师赛（MASTERS） ====
+{{main|无畏契约冠军巡回赛/大师赛|无畏契约大师赛}}
+无畏契约冠军巡回赛的每一个赛段都会以全球会师的大师赛画下句号。{{黑幕|由于大师赛参赛战队多为赛区顶尖强队，以及全球冠军赛没有冠军定制皮肤，因此该赛事含金量介于英雄联盟季中冠军赛与全球总决赛之间。}}在大师赛的全球竞技舞台上，有来自世界各地的杰出战队共同进步、互相对决，争夺《无畏契约》大师赛的冠军。
+*由于2023圣保罗季前邀请赛的试点，除EMEA赛区排名最低的战队和中国战队外，2023东京大师赛的其他参加战队全数得到参加全球冠军赛的机会。
+{| class="wikitable"
+! colspan="2" | 赛事
+! colspan="4" | 总决赛
+|-
+! 年度
+! 城市
+! 冠军
+! 得分
+! 亚军
+|-
+! [[无畏契约冠军巡回赛/大师赛/2021雷克雅未克|2021]]
+! style="text-align: left" | {{flagicon|Iceland}}雷克雅未克
+| [[file:VCTAMERSEN.png|30px|link=]] Sentinels
+| style="text-align: center" | 3:0
+| [[file:VCTEMEAFNC.png|30px|link=]] [[Fnatic]]
+|-
+! [[无畏契约冠军巡回赛/大师赛/2021柏林|2021]]
+! style="text-align: left" | {{flagicon|Germany}}柏林
+| [[file:VCTEMEAGMB.png|30px|link=]] Gambit Esports
+| style="text-align: center" | 3:0
+| [[file:VCTAMERENVY.png|30px|link=]] Team Envy
+|-
+! [[无畏契约冠军巡回赛/大师赛/2022雷克雅未克|2022]]
+! style="text-align: left" | {{flagicon|Iceland}}雷克雅未克
+| [[file:VCTAMEROPTC.png|30px|link=]] OpTic Gaming
+| style="text-align: center" | 3:0
+| [[file:VCTAMERLOUD.png|30px|link=]] [[LOUD]]
+|-
+! [[无畏契约冠军巡回赛/大师赛/2022哥本哈根|2022]]
+! style="text-align: left" | {{flagicon|Denmark}}哥本哈根
+| [[file:VCTCNFPX.png|30px|link=]] [[FunPlus Phoenix]]
+| style="text-align: center" | 3:2
+| [[file:VCTPACPRX.png|30px|link=]] Paper Rex
+|-
+! [[无畏契约冠军巡回赛/大师赛/2023圣保罗|{{Gradient_Text|#EF7621,#03A98F,#F3B335,#F0EA9C|2023}}]]
+! style="text-align: left" | {{flagicon|Brazil}}{{Gradient_Text|#EF7621,#03A98F,#F3B335,#F0EA9C|圣保罗}}<ref>2023圣保罗季前邀请赛理论上并非大师赛，仅为方便整理写入本条目</ref>
+| [[file:VCTEMEAFNC.png|30px|link=]] [[Fnatic]]
+| style="text-align: center" | 3:2
+| [[file:VCTAMERLOUD.png|30px|link=]] [[LOUD]]
+|-
+! [[无畏契约冠军巡回赛/大师赛/2023东京|2023]]
+! style="text-align: left" | {{flagicon|Japan}}东京
+| [[file:VCTEMEAFNC.png|30px|link=]] [[Fnatic]]
+| style="text-align: center" | 3:0
+| [[file:VCTAMEREG.png|30px|link=]] Evil Geniuses
+|-
+! [[无畏契约冠军巡回赛/大师赛/2024马德里|2024]]
+! style="text-align: left" | {{flagicon|Spain}}马德里
+| [[file:VCTAMERSEN.png|30px|link=]] Sentinels
+| style="text-align: center" | 3:2
+| [[file:VCTPACGEN.png|30px|link=]] [[Gen.G Esports]]
+|-
+! [[无畏契约冠军巡回赛/大师赛/2024上海|2024]]
+! style="text-align: left" | {{flagicon|China}}上海
+| [[file:VCTPACGEN.png|30px|link=]] [[Gen.G Esports]]
+| style="text-align: center" | 3:2
+| [[file:VCTEMEATH.png|30px|link=]] [[Team Heretics]]
+|-
+! [[无畏契约冠军巡回赛/大师赛/2025曼谷|2025]]
+! style="text-align: left" | {{flagicon|Thailand}}曼谷
+| TBD
+| style="text-align:center;" | TBD
+| TBD
+|-
+! [[无畏契约冠军巡回赛/大师赛/2025多伦多|2025]]
+! style="text-align: left" | {{flagicon|Canada}}多伦多
+| TBD
+| style="text-align:center;" | TBD
+| TBD
+|-
+|}
+
+====[[file:VCT_LCQ_icon_allmode.png|38px|link=]] 最终入围赛（LAST CHANCE QUALIFIER） ====
+为未能参加大师赛的劲旅提供进军全球冠军赛资格的通道，剩余战队展开激烈厮杀，争得最后一个参加全球冠军赛的名额。
+
+随着2024赛季的赛制变更，最终入围赛不再举行。
+
+====[[file:VCT Champions logo.png |38px|link=]]全球冠军赛（CHAMPIONS） ====
+{{main|无畏契约冠军巡回赛/全球冠军赛|无畏契约全球冠军赛}}
+全球冠军赛是赛季最高潮，是压轴重头戏{{黑幕|类比[[英雄联盟全球总决赛]]}}，来自世界各地的16强战队将一较高下，并只有一支战队能够夺得《无畏契约》（VALORANT）世界冠军的殊荣。<ref>[https://www.ali213.net/news/html/2021-1/571625.html 《Valorant》冠军巡回赛1月底开赛 官方公开顶尖选手介绍_游侠网 Ali213.net ]</ref><ref>[https://playvalorant.com/zh-tw/news/esports/2021-valorant-champions-tour-overview/ 2021《特戰英豪》VCT總覽 ]</ref>
+{| class="wikitable"
+! colspan="2" | 赛事
+! colspan="4" | 总决赛
+|-
+! 年度
+! 城市
+! 冠军
+! 得分
+! 亚军
+|-
+! [[无畏契约冠军巡回赛/全球冠军赛/2021柏林|2021]]
+! style="text-align: left" | {{flagicon|Germany}}柏林
+| [[file:VCTEMEAACE.png|30px|link=]] [[Acend]]
+| style="text-align:center;" | 3:2
+| [[file:VCTEMEAGMB.png|30px|link=]] [[Gambit Esports]]
+|-
+! [[无畏契约冠军巡回赛/全球冠军赛/2022伊斯坦布尔|2022]]
+! style="text-align: left" | {{flagicon|Turkey}}伊斯坦布尔
+| [[file:VCTAMERLOUD.png|30px|link=]] [[LOUD]]
+| style="text-align:center;" | 3:1
+| [[file:VCTAMEROPTC.png|30px|link=]] [[OpTic Gaming]]
+|-
+! [[无畏契约冠军巡回赛/全球冠军赛/2023洛杉矶|2023]]
+! style="text-align: left" | {{flagicon|United_States}}洛杉矶
+| [[file:VCTAMEREG.png|30px|link=]] [[Evil Geniuses]]
+| style="text-align:center;" | 3:1
+| [[file:VCTPACPRX.png|30px|link=]] [[Paper Rex]]
+|-
+! [[无畏契约冠军巡回赛/全球冠军赛/2024首尔|2024]]
+! style="text-align: left" | {{flagicon|Korea}}首尔
+| [[file:VCTCNEDG.png|30px|link=]] [[EDG|EDward Gaming]]
+| style="text-align:center;" | 3:2
+| [[file:VCTEMEATH.png|30px|link=]] [[Team Heretics]]
+|-
+! [[无畏契约冠军巡回赛/全球冠军赛/2025巴黎|2025]]
+! style="text-align: left" | {{flagicon|France}}巴黎
+| TBD
+| style="text-align:center;" | TBD
+| TBD
+|-
+|}
+
+====[[file:VCT LOCK-IN icon allmode.png  |38px|link=]] 季前邀请赛（LOCK//IN） ====
+{{main|2023无畏契约圣保罗季前邀请赛}}
+专属于2023赛季的比赛，30支合作战队以及特邀的两支来自中国的战队在圣保罗集结，首次在国际舞台上展示实力。冠军可以在2023赛季，给战队所在赛区额外增加一个大师赛名额。
+
+最终EMEA赛区战队Fnatic在决赛3:2击败美洲赛区战队LOUD，夺得了圣保罗季前邀请赛的冠军。
+
+===次级赛事===
+
+====[[file:VCT_Challengers_logo.png |38px|link=]] 挑战者赛（CHALLENGERS）/[[file:无畏契约全国大赛logo.png|38px|link=]]全国大赛（CN NATIONALS） ====
+挑战者赛在一年之中分三阶段进行，世界各地的战队在这些地区赛事中互相切磋争胜。 地方的战队可以通过公开资格赛选拔，获得进军国际联赛的参赛资格。 在主要赛事中，战队们则须一较高下，争取进入挑战者赛晋升赛。
+
+而CN赛区则将举办为期四个月的无畏契约全国大赛，全国大赛将开辟四大赛道，玩家们将通过从海选到线下总决赛层层选拔，最终见证瓦赛全国总冠军的诞生，同时积分较高的八支职业认证战队将会获得CN联赛晋升赛的参赛资格。
+
+====[[file:VCT_Challengers_logo.png |38px|link=]] 晋升赛（ASCENSION） ====
+各地区挑战者赛的冠军集结于此，在这场赛事中捉对厮杀，争得参加国际联赛并一展宏图的机会。在挑战者晋升赛获胜的战队（今后开放最多两支），将会获得为期{{注释|至少一年|2023年晋级战队的参赛权力时长为两年，2025赛季起晋级战队的参赛权力时长由其在国际联赛的成绩决定}}的国际联赛参赛权利，向着更高目标前进。
+
+====[[file:VCT_Game_Changers_icon_allmode.png |38px|link=]] 改变者赛（GAME CHANGERS） ====
+改变者赛是专门为无畏契约的女性选手打造的赛事，经过2022年改变者全球冠军赛的成功举办，目前已经成为了最成功的女子电竞赛事。
+
+== 赛区划分 ==
+目前包括'''美洲（Americas）'''、'''太平洋（Pacific）'''，'''欧洲、中东与非洲（E-{}-ME-{}-A）'''以及'''中国（CN）'''四大赛区。在除CN赛区外的其他三大赛区旗下，还有下辖的数个小赛区。CN赛区则为大小赛区一体的赛区。
+
+=== 下辖小赛区 ===
+
+==== 美洲赛区 ====
+*北美赛区（North America）：美国、加拿大
+*拉美赛区（Latin America）：因涵盖范围过大而分为拉美北区和拉美南区两个平级小赛区，最终根据积分进行总决赛。
+**拉美北区（Latin America North）：涵盖墨西哥、中美洲诸国、哥伦比亚、委内瑞拉以及加勒比海地区诸国等国家，以墨西哥和哥伦比亚为首。
+**拉美南区（Latin America South）：涵盖秘鲁、玻利维亚、智利、阿根廷、巴拉圭、乌拉圭等国家，以阿根廷和智利为首。
+*巴西赛区（Brazil）
+
+==== 欧洲、中东与非洲赛区 ====
+每个小赛区沿袭无畏契约欧洲地区联赛（Valorant Regional League）的标志语。
+*北欧赛区（North）：涵盖{{注释|传统北欧国家|冰岛、丹麦、瑞典、挪威、芬兰}}及英国、爱尔兰，标志语为极星（Polaris）。
+*西班牙赛区（Spain）：标志语为飙升（Rising）。
+*法国赛区（France）：除法国战队外，还包含荷兰、比利时、卢森堡（Benelux）的战队，标志语为革命（Revolution）。
+*德国、奥地利和瑞士赛区（DACH）：标志语为进化（Evolution）。
+*土耳其赛区（Turkey）：标志语为团结（Birlik）。
+*东欧赛区（East）：涵盖匈牙利、捷克、斯洛伐克、波兰、乌克兰及白俄罗斯等原独联体国家、巴尔干地区诸国、希腊、波罗的海国家和以色列，标志语为激荡（Surge）。
+**此前，乌克兰和白俄罗斯等原独联体国家同俄罗斯一同被分为已经弃用的独联体赛区（CIS），标志语为纪元（Milestone）。
+*中东与北非赛区（MENA）：旗下一共有两个子赛区，标志语为韧性（Resilence）。
+**海湾地区和伊拉克（GCC & Iraq）：海湾地区包括伊朗、科威特、巴林、卡塔尔、沙特阿拉伯、阿拉伯联合酋长国和阿曼。
+**黎凡特与北非（Levant & North Africa）：黎凡特地区包括叙利亚、黎巴嫩、巴勒斯坦、约旦，不包括以色列；北非地区包括埃及、利比亚、阿尔及利亚、突尼斯和摩洛哥。
+*意大利赛区（Italy）：标志语为复兴（Rinascimento）。
+*葡萄牙赛区（Portugal）：标志语为狂风（Tempest）。
+
+==== 太平洋赛区 ====
+*日本赛区（Japan）
+*韩国赛区（Korea）
+*新加坡与马来西亚赛区（Malaysia & Singapore）
+*泰国赛区（Thailand）
+*印度尼西亚赛区（Indonesia）
+*菲律宾赛区（Philipines）
+*南亚赛区（South Asia）：涵盖印度、孟加拉国、巴基斯坦、不丹、尼泊尔等南亚国家
+*越南赛区（Vietnam）
+*中国港台赛区（Hong Kong & Taiwan）
+*大洋洲赛区（Oceania）
+
+=== 合作战队 ===
+
+为加强国际对抗，2023赛季启用的大赛区国际联赛实行合作战队制。2022年9月28日，VCT官方公布了三大赛区各十支，共30支合作战队。随着CN赛区的加入，合作战队数量扩充至40支。
+
+合作战队包含老牌电竞豪门和新锐电竞人气组织，各自有不同的项目背景，所属的国家及活动地区也各有差异。
+
+合作战队的要求有以下特点：
+*具有长期经营的意愿
+*正常的财政状况和良好的经营环境
+*战队本身的知名度及所属地区粉丝粘度（不关注具体战绩如何）
+
+''注：所有下列的40支合作战队均为在2022年9月（CN赛区为2023年12月）官宣时的战绩，除合作战队名单改动而进行补充外，不做任何改动''
+
+==== 美洲赛区 ====
+*[[file:VCTAMER100T.png|30px|link=]]100 Thieves（北美）：北美中坚电竞组织，2016年由前使命召唤电竞选手Nadeshot携手NBA克利夫兰骑士队运营方联合创办，项目早期参与组织。2020年无畏契约First Strike比赛冠军（初代北美冠军）。
+*[[file:VCTAMERC9.png|30px|link=]][[Cloud9]]（北美）：北美知名电竞组织，2012年末创办，在多个项目具备辉煌成就。
+*[[file:VCTAMEREG 2024.png|30px|link=]]Evil Geniuses（北美）：北美留存最老牌电竞组织，创办于1999年。在多项领域深耕已久，具备丰富经验。
+*[[file:VCTAMERFUR.png|30px|link=]]FURIA（巴西）：巴西知名电竞组织，2017年成立后深耕多个电竞项目，此前以反恐精英项目分部最为知名。
+*[[file:VCTAMERKRU.png|30px|link=]]KRÜ Esports（拉美）：拉丁美洲新锐电竞组织，2020年10月由阿根廷足球巨星塞尔吉奥·阿圭罗创办。
+*[[file:VCTAMERLEV.png|30px|link=]]Leviatán（拉美）：拉丁美洲新锐电竞组织，2020年11月成立。
+*[[file:VCTAMERLOUD.png|30px|link=]][[LOUD]]（巴西）：巴西新锐电竞组织，以惊人的流媒体作品制作能力闻名。力获2022伊斯坦布尔全球冠军赛冠军，成为公布合作战队名单时，唯一一支具有冠军赛背景的合作战队。
+*[[file:VCTAMERMIBR.png|30px|link=]]MIBR（巴西）：巴西老牌电竞组织，2018年品牌重生后归属于Immortals Gaming Club旗下，以反恐精英项目为首，在多项射击游戏项目均有深耕，巴西电竞的代表之一。
+*[[file:VCTAMERNRG 2024.png|30px|link=]][[NRG Esports|NRG]]（北美）：北美中坚电竞组织，2015年由NBA萨克拉门托国王队运营方创办，守望先锋联赛旧金山震动队的母公司。
+*[[file:VCTAMERSEN.png|30px|link=]]Sentinels（北美）：北美新锐电竞组织，于2017年成立于洛杉矶。项目最具关注度的电竞战队，也是VCT首个正式全球性大赛的冠军。
+
+==== 欧洲、中东与非洲赛区 ====
+*[[file:VCTEMEABBL.png|30px|link=]]BBL Esports（土耳其）：土耳其新锐电竞组织，2020年7月随无畏契约项目一起建立。First Strike土耳其赛区冠军。
+*[[file:VCTEMEAFNC.png|30px|link=]][[Fnatic]]（北欧）：以英国为核心的欧洲老牌电竞组织。在CS和英雄联盟都曾取得首届最高级别世界赛事的冠军。2021年收购独立战队SUMN FC进入该项目。
+*[[file:VCTEMEAFUT.png|30px|link=]]FUT Esports（土耳其）：土耳其新锐电竞组织，以FIFA电竞领域起家。无畏契约欧洲地区联赛总决赛的冠军。
+*[[file:VCTEMEAGX.png|30px|link=]]GiantX（西班牙）：主体为西班牙老牌电竞组织Giants Gaming，以安达卢西亚马拉加为据点，近年崛起重生的知名品牌。2023年与英国电竞组织Excel Esports合并，更名为GiantX。
+*[[file:VCTEMEAKC.png|30px|link=]]Karmine Corp（法国）：法国新锐电竞组织，以法国人气英雄联盟主播Kameto为首，携大型投资人创立发展的新锐组织。
+*[[file:VCTEMEAKOI 2024.png|30px|link=]][[MAD Lions KOI|Movistar KOI]]（西班牙）：西班牙新锐电竞组织，原名KOI，2021年12月15日由西班牙顶流解说Ibai携西班牙足球巨星赫拉德·皮克共同创办。原与欧美知名电竞组织Rogue合作，现与另外两家西班牙电竞组织[[MAD Lions KOI|MAD Lions]]与Movistar Riders合作整合，组成Movistar KOI电竞复合体。
+*[[file:VCTEMEANAVI.png|30px|link=]][[Natus Vincere]]（东欧）：创办于乌克兰的独联体顶级电竞组织，以反恐精英项目最为出名。
+*[[file:VCTEMEATH.png|30px|link=]][[Team Heretics]]（西班牙）：西班牙中坚电竞组织，成立于2016年。无畏契约First Strike欧洲赛区冠军（初代欧洲冠军）。
+*[[file:VCTEMEATL.png|30px|link=]][[Team Liquid]]（法国）：深耕于全球电竞的荷兰著名电竞组织，多个项目徘徊于北美和欧陆之间并取得辉煌成就。
+*[[file:VCTEMEAVIT 2024.png|30px|link=]][[Team Vitality]]（法国）：法国著名电竞组织，在多个项目活跃至今并取得辉煌成就，以反恐精英分部及英雄联盟分部最为知名。
+
+==== 太平洋赛区 ====
+*[[file:VCTPACDFM.png|30px|link=]][[DetonatioN Gaming|DetonatioN FocusMe]]（日本）：日本电竞的标志性组织，成立于2013年，以英雄联盟分部最为知名。
+*[[file:VCTPACDRX.png|30px|link=]]DRX（韩国）：韩国新锐电竞组织，前身为龙珠TV旗下的Longzhu Gaming，后在龙珠旗下King-Zone战队控制下曾用名为King-Zone DragonX。2022年与驰骋项目一段时间，取得不俗战绩的Vision Strikers战队合并从而拥有旗下无畏契约分部。
+*[[file:VCTPACGE.png|30px|link=]]Global Esports（南亚）：印度中坚电竞组织，成立于2017年。印度FPS最活跃的战队。
+*[[file:VCTPACGEN.png|30px|link=]][[Generation Gaming|Gen.G Esports]]（韩国）：韩国中坚电竞组织，具有韩国与美国硅谷背景。在多个项目深耕，具备不俗战绩。以其英雄联盟分部及守望先锋联赛首尔王朝队最为知名。经历北美深耕后回归韩国本土。
+*[[file:VCTPACPRX.png|30px|link=]]Paper Rex（新加坡与马来西亚）：新加坡新锐电竞组织，2020年1月1日由前反恐精英项目选手dsn携整个新加坡反恐精英项目资源共同创办，以反恐精英分部起家。现专门运营无畏契约项目，在2022年哥本哈根大师赛斩获亚军，成为无畏契约项目最成功的太平洋战队。
+*[[file:VCTPACRRQ.png|30px|link=]]Rex Regum Qeon（印度尼西亚）：印度尼西亚老牌电竞组织，成立于2013年，以DOTA 2项目起家，现深耕于多项印度尼西亚火热手机游戏电竞项目。
+*[[file:VCTPACT1.png|30px|link=]][[T1]]（韩国）：韩国最具盛名的电竞组织，前身为在英雄联盟领域闻风丧胆的SK Telecom T1，后经由接受康卡斯特集团注资更改为现名。经历北美深耕后回归韩国本土。
+*[[file:VCTPACTLN.png|30px|link=]][[Talon电子竞技俱乐部|Talon Esports]]（泰国）：以中国香港为总部的亚太知名电竞组织，主营东南亚电竞业务。在无畏契约项目上以泰国为驻地。
+*[[file:VCTPACTS.png|30px|link=]]Team Secret（菲律宾）：主营全球电竞业务的欧洲知名电竞组织，以DOTA 2分部最为知名。2021年收购Bren Esports的无畏契约分部后将在无畏契约项目上以菲律宾为驻地。
+*[[file:VCTPACZETA.png|30px|link=]]ZETA DIVISION（日本）：日本新锐电竞俱乐部，前身为JUPITER电竞战队，与反恐精英分部的尖端电竞组织Absolute合办的Absolute JUPITER是First Strike日本赛区冠军。在2022年雷克雅未克大师赛斩获季军，创造了日本电竞史上新高。
+
+==== CN赛区 ====
+*[[file:VCTCNAG.png|30px|link=]][[AG电子竞技俱乐部|All Gamers]]：中国老牌电竞豪门，于1999年成立，以穿越火线分部、王者荣耀分部最为知名，以CFPL十冠王成为该项目国内霸主。
+*[[file:VCTCNBLG.png|30px|link=]][[BLG电子竞技俱乐部|Bilibili Gaming]]：中国中坚电竞组织，成立于2017年，由[[哔哩哔哩]]电竞完全控制的电竞组织。曾代表CN赛区出征洛杉矶全球冠军赛，在冠军赛横空出世以最快速度达到了在VCT大赛中小组出线的成就。
+*[[file:VCTCNEDG.png|30px|link=]][[上海EDG电子竞技俱乐部|EDward Gaming]]：中国无畏契约电竞先驱，中坚电竞组织，成立于2014年，以英雄联盟分部最为知名，曾于2021年夺得全球总决赛冠军。曾代表CN赛区四次出征VCT国际大赛，并在2023东京大师赛横空出世被玩家熟知，在刚刚结束的进化者公开赛拿下全部冠军，以最强者姿态进军VCTCN。
+*[[file:VCTCNFPX.png|30px|link=]][[趣加电子竞技俱乐部|FunPlus Phoenix]]：中国无畏契约电竞先驱，中坚电竞组织，于2017年成立。在英雄联盟领域表现优秀，曾于2019年夺得全球总决赛冠军。原先在EMEA地区活动并在2022哥本哈根大师赛获得冠军，后回归中国大陆发展，代表CN赛区出征圣保罗季前邀请赛以及洛杉矶全球冠军赛。
+*[[file:VCTCNJDG.png|30px|link=]][[京东电子竞技俱乐部|JD Gaming]]：中国中坚电竞组织，由2017年建立并收购英雄联盟战队QG起家，以英雄联盟分部最为知名。
+*[[file:VCTCNNOVA.png|30px|link=]]Nova Esports：来自于香港特别行政区的中国中坚电竞组织，隶属香港帝国集团，于2016年成立。其和平精英分部、英雄联盟手游分部、皇室战争分部均获得过对应项目的全球总决赛冠军。
+*[[file:VCTCNTE.png|30px|link=]][[TE溯电子竞技俱乐部|Trace Esports]]：中国新锐电竞组织，于2022年成立，以第五人格分部最为知名，2023年通过收购Totoro俱乐部进入无畏契约项目，并迅速成为CN赛区的劲旅。
+*[[file:VCTCNTEC.png|30px|link=]]Titan Esports Club：中国新锐电竞组织，背靠长沙体坛传媒集团，于2021年成立并收购GM5和平精英分部起家，以和平精英分部最为知名。
+*[[file:VCTCNTYL.png|30px|link=]][[TYLOO电子竞技俱乐部|Tyloo Gaming]]：中国无畏契约电竞先驱，老牌电竞组织，于2007年成立，以反恐精英分部最为知名，在很长一段时间都作为中国FPS电竞的头部战队之一，其热度经久不衰。
+*[[file:VCTCNWOL.png|30px|link=]][[狼队电子竞技俱乐部|Wolves Esports]]：中国新锐电竞组织，隶属复星集团，本部为在英格兰足球超级联赛征战的狼队，在2019年开始在电竞板块深耕，以王者荣耀分部（原重庆QGhappy）与第五人格分部最为知名。在2023年作为EG战队的赞助商活跃于无畏契约，现已脱离EG正式开始无畏契约的征程。
+
+=== 已参赛的晋升赛战队 ===
+
+2023年各大赛区晋升赛的冠军将会获得两年的晋升席位。自2025年开始，到期自动降级规则取消。所有自晋升赛晋级至国际联赛的战队，其参赛权力时长将由战队在国际联赛的成绩决定。战队成绩与参赛权利时长的关系如下<ref>[https://valorantesports.com/en-US/news/updates-to-valorants-path-to-pro-challengers-premier-and-ascension-for-the-2025-season UPDATES TO VALORANT’S PATH TO PRO: CHALLENGERS, PREMIER, AND ASCENSION FOR THE 2025 SEASON]</ref>：
+*若战队进入全球冠军赛：该战队的参赛权力时长自动延期一年。若两只晋升赛战队均进入全球冠军赛，则仅延长成绩更好战队的参赛权力时长，另一支战队将进入晋升赛。
+*若战队进入国际联赛季后赛：该战队将进入晋升赛，与当年自{{注释|挑战者赛|CN赛区为全国大赛}}晋级的战队竞争次年的晋升席位。
+*若战队未进入国际联赛季后赛：该战队将被降级至{{注释|对应小赛区的挑战者赛|CN赛区为全国大赛}}。若两只晋升赛战队均被降级，该年的晋升赛将晋级两只新战队进入国际联赛。
+==== 自2023年晋升赛晋级的战队 ====
+*[[file:VCTAMERG2.png|30px|link=]][[G2 Esports]]（美洲联赛）：欧洲老牌电竞豪门，于2016年建立，在英雄联盟获得了极为辉煌的成就，在反恐精英也颇有建树，深耕无畏契约领域多时，在EMEA赛区征战时日后转战北美。曾因为争议事件未能得到合作战队资格，而盘踞于挑战者联赛。于2023赛季结束将晋升赛冠军{{注释|The Guard|于2023年底停止运营，在夺冠后由于没有递交材料而无法获得准入。}}原班人马收编重返顶级赛场。
+*[[file:VCTEMEAM8 2024.png|30px|link=]]Gentle Mates（EMEA联赛）：法国新锐电竞组织，于2023年4月13日正式建立，可以缩写为“Gentle M8”或“M8”。
+*[[file:VCTPACBLD.png|30px|link=]]Bleed Esports（太平洋联赛）：新加坡新锐电竞组织，成立于2021年9月30日。在永劫无间项目、DOTA2项目等热门项目有所建树。Bleed在2024赛季的表现极其糟糕，随后被拳头游戏官方认定未能遵守TPA团队合作协议和其他义务，因而被逐出太平洋国际联赛，失去了2025赛季的参赛资格。
+*[[file:VCTCNDRG.png|30px|link=]][[Dragon Ranger Gaming]]（CN联赛）：中国中坚电竞组织，于2016年成立，以王者荣耀分部最为出名。在晋升赛中他们创造了奇迹，在进化者公开赛仅进入一次正赛的情况下，连续击败ASE、RA两大夺冠热门，一举拿下晋升赛冠军，进军VCT CN。
+
+==== 自2024年晋升赛晋级的战队 ====
+*[[File:VCTEMEAAPK.png|30px|link=]]Apeks（EMEA联赛）：挪威老牌电竞组织，成立于2013年，此前广泛涉猎各种射击类游戏。2024年5月，他们解散了除无畏契约分部以外所有分部，全力冲击VCT名额。最终功夫不负有心人，第二次参加晋升赛的他们没有重蹈前一年决赛输给M8的覆辙，成功杀出晋升赛，获得VCT席位。
+*[[file:VCTCNXLG.png|30px|link=]]XLG Esports（CN联赛）：中国新锐电竞组织，成立于2023年9月。只专注于无畏契约项目的他们以全国大赛冠军以及积分第一的身份晋级晋升赛，并在最后兵不血刃拿下冠军，进军VCT CN。
+*[[file:VCTAMER2G.png|30px|link=]]2Game Esports（美洲联赛）：巴西新锐电竞组织，成立于2024年2月13日。两个挑战者赛赛段都只拿到巴西赛区第三名的他们在晋升赛一路过关斩将，两次击败小组赛第一、2023年美洲晋升赛亚军M80实现晋级。
+*[[File:VCTPACSPG.png|30px|link=]]Sin Prisa Gaming（太平洋联赛）：韩国新锐电竞组织，成立于2022年，原本专注于守望先锋项目，后转为无畏契约俱乐部。晋升赛中决赛前他们一图不输，决赛拒绝让二追三+决胜图长加时获胜取得门票。
+*[[File:VCTPACBME.png|30px|link=]]Boom Esports（太平洋联赛）：印度尼西亚中坚电竞组织，成立于2017年，在反恐精英、DOTA2等项目均有所涉猎。原本他们在晋升赛中以0.0087秒之差惜败，但BLEED的财政欠薪被开除弥补了遗憾，让他们登上了VCT的末班车。
+
+=== 联袂战队 ===
+2024年，拳头游戏正式引入新系统：为加强VCT国际联赛队伍与挑战赛队伍的合作连接，更有利于培养选手展现风采，VCT正式采用“联袂系统”（Affiliate Partnerships）。
+
+联袂队伍通过与VCT国际联赛队伍进行联袂合作，拥有以下权利。
+*联袂队伍可与VCT联赛队伍共享在场外联动和资源流动的优势。
+*“双向选手”系统：在该赛段一名选手在为一支队伍该赛段出场不超过50%的情况下，可以自由流动于VCT联赛队伍和联袂队伍之间。
+
+VCT联赛队伍和联袂队伍可随时终止联袂关系，而联袂关系也会在双方处于同一级别时暂时失效。如：2024年在晋升赛获胜，升入EMEA国际联赛的Apeks原为从属于Team Liquid的联袂队伍。随着Apeks成功升级，其与Team Liquid的联袂作用暂时失效。
+
+==== 联袂战队名单 ====
+*Mandatory（EMEA，法国）：法国新锐电竞俱乐部，成立于2020年。于2024年1月18日与Fnatic建立联袂关系。
+*[[file:VCTPACDSG.png|30px|link=]]Disguised（太平洋，新加坡）：以美国为主基地的全球性新锐电子竞技俱乐部，2023年1月由YouTube知名主播DisguisedToast建立。于2024年1月26日与Bleed Esports建立联袂关系，目前联袂关系已失效。
+*ZERANCE（EMEA，法国）：法国新锐电竞俱乐部，成立于2022年。于2024年4月26日与Karmine Corp建立联袂关系。
+*[[file:VCTEMEAAPK.png|30px|link=]]Apeks（EMEA，北欧）：于2024年6月7日与Team Liquid建立联袂关系，目前联袂关系已失效。
+*UCAM Esports Club（EMEA，西班牙）：西班牙新锐电竞俱乐部，由西班牙{{注释|武康大学|全名为穆尔西亚圣安东尼奥天主教大学（Universidad Católica San Antonio de Murcia）}}电竞社直接管理。于2024年6月30日与GIANTX建立联袂关系。
+
+== VCT合作战队套装 ==
+2023年12月11日，拳头游戏在致玩家社区的年终信<ref>[https://valorantesports.com/news/vct-2023-eoy-letter-to-the-community/en-us VCT 2023 EOY LETTER TO THE COMMUNITY]</ref>中表示，将在2024年推出VCT合作战队套装。这一系列皮肤套装将涵盖VCT四大赛区的40支合作战队，以及目前已参赛的4支晋升赛战队。
+
+2024年2月21日（太平洋时间，北京时间为2月22日），除{{注释|CN赛区|由于CN赛区的战队2023年12月底才完成选拔，受限于制作周期，VCT CN的合作战队套装将延后至上海大师赛前上架，且仅有标配皮肤和挂饰，不包括卡面和喷漆}}外的三大赛区共33支战队的战队套装上线。玩家可在商店页面的“电竞”页签购买，售卖时间自上线起持续至2024年9月12日。2024年发布的第一批合作战队套装为[[File:传奇标志.png|14px]]传奇品质，价格为{{注释|2340VP|国际服定价}}或{{注释|1630VP|简中服定价}}，共包括一款[[标配]]枪械皮肤，一款战队设计的玩家卡面，以及战队队徽的喷漆和挂饰。套装只能捆绑购买，无法单独购买其中一项。枪械皮肤不会出现在夜市中，也不会进入每日商店轮转。
+
+北京时间2024年5月15日，VCT CN合作战队套装上架，仅包含一把标配皮肤和挂饰，价格为{{注释|1880VP|国际服定价}}或{{注释|1320VP|简中服定价}}，其余与其他三大赛区合作战队套装一致。
+
+以下为四大赛区的合作战队皮肤：
+=== 美洲赛区 ===
+<gallery>
+VCT x 100T标配.png|VCT x 100T-标配<br>[[file:VCTAMER100T.png|30px|link=]]100 Thieves
+VCT x C9标配.png|VCT x C9-标配<br>[[file:VCTAMERC9.png|30px|link=]]Cloud9
+VCT x EG标配.png|VCT x EG-标配<br>[[file:VCTAMEREG 2024.png|30px|link=]]Evil Geniuses
+VCT x FUR标配.png|VCT x FUR-标配<br>[[file:VCTAMERFUR.png|30px|link=]]FURIA
+VCT x KRU标配.png|VCT x KRU-标配<br>[[file:VCTAMERKRU.png|30px|link=]]KRÜ Esports
+VCT x LEV标配.png|VCT x LEV-标配<br>[[file:VCTAMERLEV.png|30px|link=]]Leviatán
+VCT x LOUD标配.png|VCT x LOUD-标配<br>[[file:VCTAMERLOUD.png|30px|link=]]LOUD
+VCT x MIBR标配.png|VCT x MIBR-标配<br>[[file:VCTAMERMIBR.png|30px|link=]]MIBR
+VCT x NRG标配.png|VCT x NRG-标配<br>[[file:VCTAMERNRG 2024.png|30px|link=]]NRG
+VCT x SEN标配.png|VCT x SEN-标配<br>[[file:VCTAMERSEN.png|30px|link=]]Sentinels
+VCT x G2标配.png|VCT x G2-标配<br>[[file:VCTAMERG2.png|30px|link=]]G2 Esports
+</gallery>
+
+=== 欧洲、中东与非洲赛区 ===
+<gallery>
+VCT x BBL标配.png|VCT x BBL-标配<br>[[file:VCTEMEABBL.png|30px|link=]]BBL Esports
+VCT x FNC标配.png|VCT x FNC-标配<br>[[file:VCTEMEAFNC.png|30px|link=]]Fnatic
+VCT x FUT标配.png|VCT x FUT-标配<br>[[file:VCTEMEAFUT.png|30px|link=]]FUT Esports
+VCT x GX标配.png|VCT x GX-标配<br>[[file:VCTEMEAGX.png|30px|link=]]GiantX
+VCT x KC标配.png|VCT x KC-标配<br>[[file:VCTEMEAKC.png|30px|link=]]Karmine Corp
+VCT x KOI标配.png|VCT x KOI-标配<br>[[file:VCTEMEAKOI 2024.png|30px|link=]]Movistar KOI
+VCT x NAVI标配.png|VCT x NAVI-标配<br>[[file:VCTEMEANAVI.png|30px|link=]]Natus Vincere
+VCT x TH标配.png|VCT x TH-标配<br>[[file:VCTEMEATH.png|30px|link=]]Team Heretics
+VCT x TL标配.png|VCT x TL-标配<br>[[file:VCTEMEATL.png|30px|link=]]Team Liquid
+VCT x VIT标配.png|VCT x VIT-标配<br>[[file:VCTEMEAVIT 2024.png|30px|link=]]Team Vitality
+VCT x M8标配.png|VCT x M8-标配<br>[[file:VCTEMEAM8 2024.png|30px|link=]]Gentle Mates
+</gallery>
+
+=== 太平洋赛区 ===
+<gallery>
+VCT x DFM标配.png|VCT x DFM-标配<br>[[file:VCTPACDFM.png|30px|link=]]DetonatioN FocusMe
+VCT x DRX标配.png|VCT x DRX-标配<br>[[file:VCTPACDRX.png|30px|link=]]DRX
+VCT x GE标配.png|VCT x GE-标配<br>[[file:VCTPACGE.png|30px|link=]]Global Esports
+VCT x GEN标配.png|VCT x GEN-标配<br>[[file:VCTPACGEN.png|30px|link=]]Gen.G Esports
+VCT x PRX标配.png|VCT x PRX-标配<br>[[file:VCTPACPRX.png|30px|link=]]Paper Rex
+VCT x RRQ标配.png|VCT x RRQ-标配<br>[[file:VCTPACRRQ.png|30px|link=]]Rex Regum Qeon
+VCT x T1标配.png|VCT x T1-标配<br>[[file:VCTPACT1.png|30px|link=]]T1
+VCT x TLN标配.png|VCT x TLN-标配<br>[[file:VCTPACTLN.png|30px|link=]]Talon Esports
+VCT x TS标配.png|VCT x TS-标配<br>[[file:VCTPACTS.png|30px|link=]]Team Secret
+VCT x ZETA标配.png|VCT x ZETA-标配<br>[[file:VCTPACZETA.png|30px|link=]]ZETA DIVISION
+VCT x BLD标配.png|VCT x BLD-标配<br>[[file:VCTPACBLD.png|30px|link=]]Bleed Esports
+</gallery>
+
+=== CN赛区 ===
+<gallery>
+VCT x AG标配.png|VCT x AG-标配<br>[[file:VCTCNAG.png|30px|link=]]All Gamers
+VCT x BLG标配.png|VCT x BLG-标配<br>[[file:VCTCNBLG.png|30px|link=]]Bilibili Gaming
+VCT x EDG标配.png|VCT x EDG-标配<br>[[file:VCTCNEDG.png|30px|link=]]EDward Gaming
+VCT x FPX标配.png|VCT x FPX-标配<br>[[file:VCTCNFPX.png|30px|link=]]FunPlus Phoenix
+VCT x JDG标配.png|VCT x JDG-标配<br>[[file:VCTCNJDG.png|30px|link=]]JD Gaming
+VCT x NOVA标配.png|VCT x NOVA-标配<br>[[file:VCTCNNOVA.png|30px|link=]]Nova Esports
+VCT x TEC标配.png|VCT x TEC-标配<br>[[file:VCTCNTEC.png|30px|link=]]Titan Esports Club
+VCT x TE标配.png|VCT x TE-标配<br>[[file:VCTCNTE.png|30px|link=]]Trace Esports
+VCT x TYL标配.png|VCT x TYL-标配<br>[[file:VCTCNTYL.png|30px|link=]]Tyloo Gaming
+VCT x WOL标配.png|VCT x WOL-标配<br>[[file:VCTCNWOL.png|30px|link=]]Wolves Esports
+VCT x DRG标配.png|VCT x DRG-标配<br>[[file:VCTCNDRG.png|30px|link=]]Dragon Ranger Gaming
+</gallery>
+
+{{无畏契约}}
+
+==注释及外部链接 ==
+<references />
+* 无畏契约电竞赛事官网：[https://vct.qq.com/ 简中服] [https://valorantesports.com/ 国际服]
+
+[[分类:无畏契约竞技赛事]]
