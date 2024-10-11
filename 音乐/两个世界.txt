@@ -1,0 +1,134 @@
+{{VAL Top}}
+{{Infobox Song
+|歌曲名='''2WORLDS<br>两个世界'''
+|image=2WORLDS.png
+|制作人= Grandbankss
+|演唱= Madge
+|作曲= Catherine Renee Leavy<br>Timothy Vickers
+|填词= Catherine Renee Leavy
+|编曲= 
+|混音= Ellis Tucker
+|母带= Ellis Tucker
+|标题颜色=;background:linear-gradient(45deg,#B686B2,#6D7AB0,#BFD3E5)
+|左栏颜色=#EDECEA
+}}
+
+《'''2WORLDS'''》（中文：'''两个世界'''）是游戏《[[无畏契约]]》的一首原创音乐，为英雄[[暮蝶]]的主题曲。
+
+== 歌曲 ==
+{{music163|id=2138811507}}
+{{BilibiliVideo|id=BV1B6421F7iH}}
+
+== 歌词 ==
+{{LyricsKai
+|llang=en
+|lstyle=color:#124051;
+|rstyle=color:#6C5E2E;
+|original=
+Anytime you clock a butterfly
+I flip a switch keep a secret let you come inside
+When I run I run the gamut
+But I could never plan it
+I keep on breathin' when I land it
+When I run I run the gamut
+But I could never plan it
+I keep on breathin' when I land it
+
+If you give me a piece of your heart
+You'll keep easy when we are a part
+Of two worlds it could be nothin'
+Maybe it's somethin'
+Keep your eyes on me
+
+Keep your eyes on me
+Keep your eyes on me me me
+Keep your eyes on me
+Keep your eyes on me me me me
+Keep your eyes on me
+Keep your eyes on me me
+Keep your eyes on me
+Keep your eyes on me
+
+Anytime you clock a butterfly
+You flip a switch keep a secret let me come inside
+When you run you run the gamut
+But you could never plan it
+You keep on breathin' when you land it
+
+If you give me a piece of your heart
+You'll keep easy when we are a part
+Of two worlds it could be nothin'
+Maybe it's somethin'
+Keep your eyes on me
+
+If you give me a piece of your heart
+You'll keep easy when we are a part
+Of two worlds
+If you give me a piece of your heart
+You'll keep easy when we are a part
+Of two worlds it could be nothin'
+Maybe it's somethin'
+Keep your eyes on me
+
+Keep your eyes on me Keep your eyes on me me me (If you give me a piece of your heart)
+Keep your eyes on me Keep your eyes on me me me (You'll keep easy when we are a part)
+Keep your eyes on me Keep your eyes on me me me (Of two worlds it could be nothin')
+Keep your eyes on me Keep your eyes on me (Maybe it's somethin')
+Keep your eyes on me
+|translated=
+每当触碰蝴蝶双翼
+拨动通往秘密的开关 步入内心
+追随心跳 我全力奔跑
+却只能任其缥缈
+双脚落地 感受生命不息
+追随心跳 我全力奔跑
+但未曾有过预料
+双脚落地 感受生命不息
+
+若是献上一片真心
+你我携手追随指引
+世界两端 也许微不足道
+但紧紧相绕
+睁开双眼看好
+
+睁开双眼看好
+睁开双眼看好 看好 看好
+灯光使我闪耀
+灯光使我闪耀 闪耀 闪耀 闪耀
+睁开双眼看好
+睁开双眼看好 看好
+灯光使我闪耀
+灯光使我闪耀
+
+每当触碰蝴蝶双翼
+拨动通往秘密的开关 步入内心
+追随心跳 你全力奔跑
+但未曾有过预料
+双脚落地 感受生命不息
+
+若是献上一片真心
+你我携手追随指引
+世界两端 也许微不足道
+但紧紧相绕
+睁开双眼看好
+
+若是献上一片真心
+你我携手追随指引
+世界两端
+若是献上一片真心
+你我携手追随指引
+世界两端 也许微不足道
+但紧紧相绕
+睁开双眼看好
+
+睁开双眼看好 睁开双眼看好 看好 看好（若是献上一片真心）
+灯光使我闪耀 灯光使我闪耀 闪耀 闪耀（你我携手追随指引）
+睁开双眼看好 睁开双眼看好 看好 看好（世界两端 也许微不足道）
+灯光使我闪耀 灯光使我闪耀（但紧紧相绕）
+睁开双眼看好
+}}
+
+{{无畏契约}}
+
+[[分类:美国音乐作品]][[分类:无畏契约音乐]]
+[[Category:主题曲]]
