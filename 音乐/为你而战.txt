@@ -1,0 +1,147 @@
+{{VAL Top}}
+{{Infobox Song
+|歌曲名=''' Die For You<br/>为你而战'''
+|image=Die For You.png
+|制作人=Grabbitz
+|演唱= Grabbitz
+|作曲= Nicholas Chiari
+|填词= Nicholas Chiari
+|编曲= 
+|混音= Eric J
+|母带= Eric J
+|标题颜色=#000
+|左栏颜色=#000
+|左栏字体颜色=#FFF
+}}
+
+
+
+《'''Die For You'''》（中文：'''为你而战'''）是游戏《[[无畏契约]]》的一首原创音乐，为[[2021无畏契约柏林全球冠军赛]]的主题曲。
+
+== 歌曲 ==
+{{music163|id=1974630461}}
+{{BilibiliVideo|id=BV15s4y167Jy}}
+
+== 歌词 ==
+{{LyricsKai
+|llang=en
+|lstyle=color:#124051;
+|rstyle=color:#6C5E2E;
+|original=
+Time slows down when it can get no worse
+I can feel it running out on me
+I don't want these to be my last words
+All forgotten 'cause that's all they'll be
+Now there's only one thing I can do
+Fight until the end like I promised to
+Wishing there was something left to lose
+This could be the day I die for you
+
+What do you see before it's over?
+Blinding flashes getting closer
+Wishing there was something left to lose
+This could be the day I die for you
+This could be the day I die for you
+This could be the day I die for you
+This could be the day
+
+Everything I know
+Everything I hold tight
+When to let it go
+When to make em all fight
+When I'm in control
+When I'm out of my mind
+When I gotta live
+When I gotta die gotta die
+Everything I know
+Everything I hold tight
+When to let it go
+When to make em all fight
+When I'm in control
+When I'm out of my mind
+When I gotta live
+When I gotta die
+This could be the day I die for you
+
+Feeling like there's nothing I can do
+This could be the end it's mine to choose
+It's taken me my lifetime just to prove
+This could be the day I die for you
+Don't let it be the day
+
+What do you see before it's over?
+Blinding flashes getting closer
+Sacrificing everything I knew
+This could be the day I die for you
+
+This could be the day I die for you
+Everything I know
+Everything I hold tight
+When to let it go
+When to make em all fight
+When I'm in control
+When I'm out of my mind
+When I gotta live
+When I gotta die
+|translated=
+绝境之时，时间就会变慢
+我感觉到时光飞逝所剩无几
+我不想让这些成为我的遗言
+因为它们终将被遗忘
+现在我唯一能做就是
+像我承诺的那样战斗到底
+希望我不会一无所有
+为你而战，就在今天
+
+你在结束前看到了什么
+耀眼的闪光近在咫尺
+希望我不会一无所有
+为你而战，就在今天
+为你而战，就在今天
+为你而战，就在今天
+就在今天
+
+我所熟识的一切
+我所珍惜的一切
+什么时候才能过去
+什么时候才能放手一搏
+当我掌控一切的时候
+当我失去理智的时候
+在我苟活之时
+在我弥留之际
+我所熟识的一切
+我所珍惜的一切
+什么时候才能过去
+什么时候才能放手一搏
+当我掌控一切的时候
+当我失去理智的时候
+在我苟活之时
+在我弥留之际
+为你而战，就在今天
+
+无能为力
+这是我自己选择的宿命
+历尽一生，只为证明
+为你而战，就在今天
+可能就在今天
+
+你在结束前看到了什么
+耀眼的闪光近在咫尺
+牺牲我熟识的一切
+为你而战，就在今天
+
+为你而战，就在今天
+我所熟识的一切
+我所珍惜的一切
+什么时候才能过去
+什么时候才能放手一搏
+当我掌控一切的时候
+当我失去理智的时候
+在我苟活之时
+在我弥留之际
+}}
+
+{{无畏契约}}
+
+[[分类:美国音乐作品]][[分类:无畏契约音乐]]
+[[Category:主题曲]]
