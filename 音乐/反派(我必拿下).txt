@@ -1,0 +1,145 @@
+{{VCT TOP|联赛=EMEA}}
+{{标题格式化}}{{Infobox Song
+|歌曲名='''Villain (Take the Shot)<br/>反派 (我必拿下)'''
+|image= Villain Take the Shot.png
+|制作人=ARB4
+|演唱= Barns Courtney<br>Eytan Peled
+|作曲= ARB4
+|填词= ARB4<br>Eytan Peled<br>Aviv Barenholtz<br>Chen Kordova
+|编曲= 
+|混音= ARB4
+|母带= ARB4
+|标题颜色=#000000
+|左栏颜色=#808080
+|左栏字体颜色=#FFF
+}}
+
+《'''Villain'''》（中文：'''反派'''）是游戏《[[无畏契约]]》的一首原创音乐，为[[无畏契约EMEA国际联赛]]的主题曲。
+
+== 歌曲 ==
+{{music163|id=2151349465}}
+{{BilibiliVideo|id=BV18A4m1N7Hc}}
+
+== 歌词 ==
+{{LyricsKai
+|llang=en
+|lstyle=color:#124051;
+|rstyle=color:#6C5E2E;
+|original=
+I'm out here in the cold night
+Running till I barely feel my feet
+Wanna see it through my own eyes
+There's no going back
+And I'm not afraid anymore
+Cause I know I'm gonna be the one last standing
+Yeah I'm not afraid anymore
+Yeah I don't wanna wait anymore
+
+I'm ready to fall
+I'm ready to rise up
+I will do what it takes
+I'll run blind straight into the flames
+Watch me burn
+Alone in the shadows
+I'll carry you home on my back
+If it's you or me
+then I'll take the shot
+Still they say I'm the villain
+I scream and nobody listens
+Still they say I'm the villain
+Too bad you can't take me down
+
+See that I'm surrounded by predators
+It's critical they got me in my element
+It's dirty how you tryna keep it elegant
+Keep my eyes open wide
+When everyone around me is an enemy
+See my life cross my eyes
+
+I'm ready to fall
+I'm ready to rise up
+I will do what it takes
+If it's you or me
+then I'll take the shot
+Still they say I'm the villain
+I scream and nobody listens
+Still they say I'm the villain
+Too bad you can't take me down
+
+Too bad you can't take me down
+Can't take me down
+
+I'm ready to fall
+I'm ready to rise up
+I will do what it takes
+I'll run blind straight into the flames
+Watch me burn
+Alone in the shadows
+I'll carry you home on my back
+If it's you or me
+then I'll take the shot
+Still they say I'm the villain
+I scream and nobody listens
+Still they say I'm the villain
+Too bad you can't take me down
+|translated=
+孤身一人 穿行于寒夜之中
+拖着麻木的双脚 仍不停向前奔跑
+我渴望亲眼见证黎明的曙光
+绝无退缩的余地
+曾经的恐惧已烟消云散
+因为我知道 最终胜利的会是我
+Yeah 我无所畏惧
+Yeah 不愿原地等待命运的宣判
+
+我已做好坠落的准备
+也做好了奋起翱翔的准备
+无论需要付出怎样的代价 我都在所不辞
+即使双眼蒙蔽 我也会义无反顾地冲向熊熊烈火
+任由烈焰将我焚烧殆尽
+纵然孤身一人 隐没于黯淡的阴影之中
+我也会背你回家
+如果必须在你我之间抉择
+我甘愿为你承受一切伤害
+他们依旧将我视作反派
+我嘶声呐喊 却无人聆听
+他们依旧将我视作反派
+可惜 他们无法将我打倒
+
+看吧 我被豺狼虎豹包围
+置身于熟悉的险境 方能发挥我的力量
+他们试图粉饰太平 手段令人不齿
+唯有睁大双眼 时刻警惕
+因为身旁环伺的 皆是敌人
+生命的过往如走马灯般闪过
+
+我已做好坠落的准备
+也做好了奋起翱翔的准备
+无论需要付出怎样的代价 我都在所不辞
+如果必须在你我之间抉择
+我甘愿为你承受一切伤害
+他们依旧将我视作反派
+我嘶声呐喊 却无人聆听
+他们依旧将我视作反派
+可惜 他们无法将我打倒
+
+可惜 他们无法将我打倒
+无法将我打倒
+
+我已做好坠落的准备
+也做好了奋起翱翔的准备
+无论需要付出怎样的代价 我都在所不辞
+即使双眼蒙蔽 我也会义无反顾地冲向熊熊烈火
+任由烈焰将我焚烧殆尽
+纵然孤身一人 隐没于黯淡的阴影之中
+我也会背你回家
+如果必须在你我之间抉择
+我甘愿为你承受一切伤害
+他们依旧将我视作反派
+我嘶声呐喊 却无人聆听
+他们依旧将我视作反派
+可惜 他们无法将我打倒
+}}
+{{无畏契约}}
+[[分类:美国音乐作品]][[分类:无畏契约音乐]]
+[[Category:主题曲]][[分类:Barns Courtney歌曲]][[分类:Eytan Peled歌曲]]
