@@ -1,0 +1,163 @@
+{{VAL Top}}
+{{Infobox Song
+|歌曲名=''' Ticking Away<br/>流光似箭'''
+|image= Ticking Away.png
+|制作人=Grabbitz
+|演唱= Grabbitz<br>bbno$
+|作曲= Grabbitz
+|填词= Grabbitz<br>bbno$
+|编曲= Grabbitz
+|混音=Tom Norris
+|后期=Randy Merrill at Sterling Sound
+|标题颜色=#FCB235
+|左栏颜色=#EBD8B7
+}}
+
+{{Cquote|'''<big><center>Dedicated to the knee scrapes, playdates, and heartaches.<br>致膝盖上的擦伤，童年的时光和青春心事。</center></big>'''}}
+
+《'''Ticking Away'''》（中文：'''流光似箭'''）是游戏《[[无畏契约]]》的一首原创音乐，为[[2023无畏契约洛杉矶全球冠军赛]]的主题曲。
+
+== 歌曲 ==
+{{music163|id=2068401809}}
+{{BilibiliVideo|id=BV1514y1B7bz}}
+
+== 歌词 ==
+{{LyricsKai
+|llang=en
+|lstyle=color:#124051;
+|rstyle=color:#6C5E2E;
+|original=
+I need to keep you around
+With my feet tied
+With my feet tied tight to the ground
+The end's nowhere to be found
+I don't know why
+You don't leave me to drown oh-oh-oh
+
+Don't know where to go unless you say
+Don't know what to do unless you stay
+Thinking that today will be our day
+Will be our day again
+
+Why am I playing with time as it's ticking away?
+Tickin' away, away
+I'm askin' why we run for our lives
+not a second to waste?
+Tickin' away, away, away
+
+Let's get it
+Winnin
+Losin
+Either way I'm there
+Gotta attitude
+I'm out the roof
+Up in the air
+This round I make it count
+Yeah I'm talkin right now
+Feel like the comeback kid
+I got no time to spare
+Woah
+Double up the score
+urn a 2 to a 4
+You know I win a lot
+Gotta win one more
+On a hot streak
+Never gets old
+Solo with the ace
+And my team went gold
+
+Why am I playing with time as it's ticking away?
+Tickin' away, away
+I'm askin' why we run for our lives
+not a second to waste?
+Tickin' away, away, away
+Tickin' away, away, away
+Tickin' away, away, away
+
+I'll give it one more try
+I don't know why
+But I keep comin' back every time
+I want it more than my life
+I don't know why
+But it feels so right
+
+Why am I playing with time as it's ticking away?
+Tickin' away, away
+I'm askin' why we run for our lives
+not a second to waste?
+Tickin' away, away, away
+Tickin' away, away, away
+Tickin' away, away, away
+
+|translated=
+想留住你在身旁
+以我小小的步伐
+以我不愿向前的脚步
+终点通往何处
+不明白
+为何不让我沉溺于此
+
+不知该去哪里 请告诉我
+不知该做什么 请你停留
+想要抓住今天
+抓住属于我们的时光
+
+为何任由时间流逝 不好好把握
+时间流逝 流逝
+为何为存活奋力拼搏
+不浪费一秒
+是不想错过 错过 错过
+
+我们上
+是输
+是赢
+我都不停
+我的态度
+不受束缚
+凌空而行
+这局由我掌握
+是的 你没听错
+我会力挽狂澜
+没时间开玩笑
+喔
+比分翻倍
+我赢得干脆
+百战百胜
+哪怕再来一回
+状态烫手
+快要暴走
+个人ACE秀
+团队拔得头筹
+
+为何任由时间流逝 不好好把握
+时间流逝 流逝
+为何为存活奋力拼搏
+不浪费一秒
+是不想错过 错过 错过
+时间流逝 流逝 流逝
+我不想错过 错过 错过
+
+我要再来一次
+不知为何
+即便输不害怕重头再来
+我渴望 胜过一切
+不知为何
+但坚定不移
+
+为何任由时间流逝 不好好把握
+时间流逝 流逝
+为何为存活奋力拼搏
+不浪费一秒
+我不想错过 错过 错过
+我不想错过 错过 错过
+时间流逝 流逝 流逝
+}}
+
+{{无畏契约}}
+{{背景图片|ticking away wallpaper.jpg}}
+
+== 外部链接 ==
+{{zh-hans}}[https://music.163.com/#/song?id=2068401809 网易云音乐]
+
+[[分类:美国音乐作品]][[分类:无畏契约音乐]]
+[[Category:主题曲]]
