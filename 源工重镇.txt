@@ -1,0 +1,64 @@
+{{VAL TOP}}
+{{长期关注及更新}}
+{{Cquote|<big><big>他们对我的家乡做了什么？不管说得多么冠冕堂皇，他们只是想榨干这座城市！</big></big>|[[零(无畏契约)|零]]}}
+{{信息栏2.0
+|标题     = 源工重镇
+|tabs={{tabs/core|TextPadding=0
+|label1=加载界面
+|text1=[[File:Loading_Screen_Bind.webp|250px]]
+|label2=缩略图
+|text2=[[File:VALORANT_Bind_2022_Top.png|250px]]
+}}
+|原名     = BIND
+|地图所在地点 = Alpha世界摩洛哥拉巴特
+|地图坐标 = 34°2'A" N 6°51'Z" W<br>(34°2'0" N 6°51'0" W)
+|官方译名 = 源工重镇
+|常用译名 = -{zh-cn:劫境之地;zh-tw:源工重鎮;}-，传送门
+|地图发布时间 = 封闭测试
+|地图状态 = 常驻地图
+|该图特殊机制 = 单向传送器
+}}
+
+'''源工重镇'''是[[拳头游戏]]旗下FPS电竞游戏《[[无畏契约]]》的一张地图，其单向传送器的机制，被中国大陆玩家称作为“传送门”。
+
+== 地图独特设计 ==
+无中路设计，玩家和物体能使用单向传送器（A小转B小和B大转A厅，使用单向传送器会发出声音，且传送器的门可穿透）
+
+== 本地图更新日志 ==
+4.0：<br>
+调整A小掩体，无法让防守方使用单向烟雾使进攻方产生压力<br>
+新增A小长椅，增加亿点点变数<br>
+<br>
+3.06：调整了A包点的箱子，使进攻方能更安全安放爆能器<br>
+<br>
+1.02：<br>
+调整浴室、B传送出口和水源室入口<br>
+修复了零的战术监控视野传送地下的BUG<br>
+修复了零的赛博囚笼和传送器的BUG<br>
+<br>
+1.0：<br>
+新增地图“边界系统”,以惩罚那些{{黑幕|闲的蛋疼没事干的}}去地图外的玩家<br>
+修复战术监控无法被反击的位置<br>
+修复碰撞体积增强游戏流畅性<br>
+调整绘制调用<br>
+
+== 小镇 ==
+在团队乱斗模式中，无畏契约组织内的机器人麦宝为了向英雄们发起报复，将部分地图重新幻化成了乱斗竞技场让英雄们互相厮杀，其中麦宝将源工重镇改造成了“小镇（Kasbah）”地图。
+<gallery>
+File:Kasbah_Map.png|加载界面
+File:VALORANT Kasbah 2023 Top.png|俯瞰图
+</gallery>
+
+== 源工重镇的攻防思路 ==
+{{bilibiliVideo|title=【VALORANT新手练什么？】2分钟让BIND成为你的强图！|id=BV1ZZ4y1a7nS|page=|width=600|height=421|autoplay=false}}
+
+== 源工重镇东南亚比赛复盘 ==
+{{bilibiliVideo|title=Paper Rex VS Team Secret 挑战者赛复盘|id=BV1BB4y1i7QJ|page=|width=600|height=421|autoplay=false}}
+
+{{无畏契约}}
+{{背景图片|Loading_Screen_Bind.webp}}
+== 参考资料 ==
+<references/>
+无畏契约官方和Fandom VALORANT Wiki
+
+[[Category:无畏契约地图]]
