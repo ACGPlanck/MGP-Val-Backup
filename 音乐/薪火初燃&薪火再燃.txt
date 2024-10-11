@@ -1,0 +1,172 @@
+{{VAL Top}}
+{{TocHide}}
+== 薪火初燃 ==
+{{Infobox Song
+|歌曲名= '''Ignition<br>薪火初燃'''
+|image= Ignition.jpg
+|制作人= LICK
+|作曲= Joshua Li
+|编曲= 
+|混音= 
+|母带= 
+|标题颜色= #FF4655
+|标题字体颜色= #FFFFFF
+|左栏颜色= #FF4655
+}}
+《'''Ignition'''》（中文：'''薪火初燃'''）是游戏《[[无畏契约]]》的一首原创音乐，为游戏登录界面音乐。
+
+=== 歌曲 ===
+{{music163|id=2081773478}}
+{{BilibiliVideo|id=BV18V411g7LW}}
+
+=== 轶事 ===
+《薪火初燃》是无畏契约的初始游戏界面登录音乐，1分50秒之后的音乐也被众多玩家所熟知。
+
+这首歌可谓是无畏契约音乐的经典，自始至终贯穿无畏契约的主旋律，瓦的音乐风格皆以此为基础，《薪火再燃》也基于此曲进行二次创作。
+
+{{jk|万物起源}}
+{{clear}}
+
+== 薪火再燃 ==
+{{Infobox Song
+|歌曲名= '''RE-IGNITION<br>薪火再燃'''
+|image= RE-IGNITION.jpg
+|制作人= ARB4
+|演唱=Jazz Alonso<br>Emei
+|作曲= Kyle Reynolds
+|作词=Emei<br>Jazz Alonso<br>Kyle Reynolds
+|编曲= 
+|混音= ARB4
+|母带= ARB4
+|标题颜色= #FF4655
+|标题字体颜色= #FFFFFF
+|左栏颜色= #FF4655
+}}
+《'''RE-IGNITION'''》（中文：'''薪火再燃'''）是游戏《[[无畏契约]]》的一首原创音乐。
+
+=== 歌曲 ===
+{{music163|id=2079867449}}
+{{BilibiliVideo|id=BV1hw411S7SS}}
+=== 歌词 ===
+{{LyricsKai
+|llang=en
+|lstyle=color:#124051;
+|rstyle=color:#6C4310;
+|original=
+Where've you been? Now I'm back
+Let's bump that
+Got a phantom in my hand I'll clutch that
+Get an agent on flank gotta loopback
+Shall we simmer on down with the five stack
+Where've we been? I don't know, going downtown
+Got the city lights eerie like a ghost town
+Got the bottom frags hiding all spooked out
+Cause we've got radianite, you better bow down
+
+Now wow, You from omega with the o?
+No, I'm with the alpha and you know
+Don't make that ticking spike sound
+put that away or you'll hurt yourself
+be anchor and let it all come your way
+We got plenty for you boy just stay
+We got sheriffs for starry-eyed
+boys set the vandal highs
+blown to the phantom world who's there, know this
+
+Ooooh
+When my back's against the wall
+All the mirrors will dissolve
+Bring the heat and bring it on
+Watch me ignite it
+
+Imma take you all down like dominos
+Imma take you out with another spike drop
+Overheated but I love to lock and load
+I hear the echo I hear the echo
+Bang bang run it back, Team with the rush attack
+Ratatatata all day
+Enough w the chit chat, Steady with the One Tap
+Imma set it off just wait
+
+wow, Eres de omega con la o?
+No, ya sabes que la alfa soy yo
+Go, vete y vuelve cuando no estoy
+Y así, desapareció
+Oh, como piensas que no?
+Traigo la peña, el ace, el sheriff, el Op
+Llama al chatarrero que se va a hacer rico
+De lo que dejaré de ti por el suelo
+
+Ooooh
+When my back's against the wall
+All the mirrors will dissolve
+Bring the heat and bring it on
+Watch me ignite it
+
+We're from different world (Alpha Omega)
+Mirror mirror earth
+Can you feel the burn?
+Ahh
+Watch me ignite it
+Watch me ignite it
+|translated=
+你去哪儿了 我已归来
+GO 一起突袭
+手握幻影 我抓住战机
+侧翼来敌 要迂回反击
+保持冷静 等五层喷漆
+不知何往 那去市中心
+城里灯光 鬼城般诡异
+胆战心惊 都是些虾米
+源晶在手 躬迎你的皇帝
+
+哦 你上了欧米伽的船？
+不 我是阿尔法的队员
+爆能器 别让它开始倒计
+收起来 别等你痛哭流涕
+稍安勿躁 最好以静制动
+安心等着 好戏还在后头
+正义在手 戏耍对手
+狂徒上膛 喷火的枪口
+引爆后的世界大家都懂
+
+噢
+背水一战之时
+镜像即刻停止
+就让热浪汹涌
+看我点燃夜空
+
+拿下你 像推倒多米诺骨牌
+解决你 爆能已炸下局再来
+枪口虽烫 但是我的最爱
+听见回响 听见回响
+还击对手 整队前冲
+让他们知道痛
+闲聊结束 一枪上路
+我们气势如虹
+
+哦 你上了欧米伽的船？
+不 我是阿尔法的队员
+想再来 请等我离场走远
+别惦记 我怕你今晚失眠
+哦 什么叫你不清楚？
+队友 ACE 正义 冥驹 我全都有
+记得叫上人清扫战场
+打爆你就像捡到肥羊
+ 
+噢
+背水一战之时
+镜像即刻停止
+就让热浪汹涌
+看我点燃夜空
+
+我们来自不同世界（阿尔法与欧米伽）
+就像镜像中的大地
+可曾感受热浪
+啊
+看我点燃夜空
+看我点燃夜空
+}}
+
+{{无畏契约}}
+[[分类:美国音乐作品]][[分类:无畏契约音乐]]
