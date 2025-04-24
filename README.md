@@ -6,4 +6,4 @@
 
 萌娘百科无畏契约专题：https://zh.moegirl.org.cn/无畏契约
 
-仓库持有人萌娘百科用户页：https://zh.moegirl.org.cn/User:DramaticPlanck
+仓库持有人萌娘百科用户页：https://zh.moegirl.org.cn/User:ACGPlanck
